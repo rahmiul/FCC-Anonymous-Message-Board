@@ -18,5 +18,5 @@
 
 |   | GET | POST | PUT | DELETE |
 | ------------- | ------------- | -------------| -------------|------------- |
-| **/api/threads/{board}**  | list recent threads | create thread | report thhread | delete thread with password |
+| **/api/threads/{board}**  | list recent threads | create thread | report thread | delete thread with password |
 | **/api/replies/{board}**  | show all replies on thread  | create reply on thread | report reply on thread | change reply to '[delete]' on thread |
